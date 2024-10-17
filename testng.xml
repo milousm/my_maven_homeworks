@@ -1,0 +1,17 @@
+<suite name="Homework Test Suite    " verbose="1" >
+    <test name="Exercise1 Tests" >
+        <classes>
+            <class name="Maven_and_TestNG_Homework.Exercise1"></class>
+        </classes>
+    </test>
+    <test name="Exercise2 Tests" >
+        <classes>
+            <class name="Maven_and_TestNG_Homework.Exercise2"></class>
+        </classes>
+    </test>
+    <test name="Exercise3 Tests" >
+        <classes>
+            <class name="Maven_and_TestNG_Homework.Exercise3"></class>
+        </classes>
+    </test>
+</suite>
